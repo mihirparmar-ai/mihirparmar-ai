@@ -12,7 +12,7 @@ My career has followed one thread: find the complexity people work around, and t
 
 - **[agent-skills](https://github.com/mihirparmar-ai/agent-skills)**: the editor-layer architecture, a 12-skill library, sanitized production utilities, and a write-up of the markdown knowledge base.
 - **[personal-os](https://github.com/mihirparmar-ai/personal-os)**: the operating system map. One person, five workstreams, an AI virtual team.
-- **Portfolio site** (coming soon at [mihirparmar.ai](https://mihirparmar.ai)): case studies and writing.
+- **[mihirparmar.ai](https://mihirparmar.ai)**: the site. Case studies (Zillow document intelligence, the agent-run advisory), the operating stack, and writing. Built with Claude Code, by the system it describes.
 
 ## Earlier
 

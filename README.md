@@ -6,7 +6,7 @@ My career has followed one thread: find the complexity people work around, and t
 
 **Most recently at Zillow (2019 to 2026):** built the document intelligence platform end to end. Multi-tenant foundation across 8 business units, 1M+ documents a year. Shipped multimodal LLM document understanding to production with confidence-based routing and human-in-the-loop review: accuracy from ~85% to 98%+, with ~100% on reviewed compliance-critical fields. The lesson that shapes everything I build: the model is never the product. The evals, guardrails, and review systems that earn a professional's trust, that's the product.
 
-**Now also Founder of [En Route Luxe](https://www.enrouteluxe.com):** a boutique luxury travel advisory ($500K+ annual bookings, grown entirely through repeat bookings and referrals) that runs on an AI operating stack I built: Claude Code agents, a library of custom skills, scheduled agent automations, and automated guardrails on every itinerary. Agents draft; the human reviews. I write about this as ["the editor layer"](https://www.linkedin.com/in/mihir-r-parmar): the discipline of knowing what NOT to automate.
+**Now also Founder of [En Route Luxe](https://www.enrouteluxe.com):** a boutique luxury travel advisory ($500K+ annual bookings, grown entirely through repeat bookings and referrals) that runs on an AI operating stack I built: Claude Code agents, a library of custom skills, scheduled agent automations, and automated guardrails on every itinerary. Agents draft; the human reviews. I write about this as ["the editor layer"](https://www.mihirparmar.ai/writing/editor-layer): the discipline of knowing what NOT to automate.
 
 ## What's here
 
